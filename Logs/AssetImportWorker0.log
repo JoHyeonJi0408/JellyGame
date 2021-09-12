@@ -1,0 +1,635 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.13f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/johyeonji/Documents/Game
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49840
+Successfully changed project path to: /Users/johyeonji/Documents/Game
+/Users/johyeonji/Documents/Game
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 40.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.13f1 (71691879b7f5)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.13f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/johyeonji/Documents/Game/Assets
+GfxDevice: creating device client; threaded=0
+2021-09-12 20:10:53.230 Unity[2504:33916] (null) preferred device: Apple M1 (high power)
+2021-09-12 20:10:53.230 Unity[2504:33916] Metal devices available: 1
+2021-09-12 20:10:53.230 Unity[2504:33916] 0: Apple M1 (high power)
+2021-09-12 20:10:53.230 Unity[2504:33916] Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.13f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.13f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.13f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56504
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.13f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000404 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 36.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.677 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001847 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 36.82 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.711 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.13f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.39 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2085 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 181.4 MB.
+System memory in use after: 181.4 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2517.
+Total: 1.943958 ms (FindLiveObjects: 0.122375 ms CreateObjectMapping: 0.040541 ms MarkObjects: 1.664000 ms  DeleteObjects: 0.116333 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa27944bdea339c97c39027c7eea529c') in 0.018295 seconds 
+  Import took 0.020927 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002446 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.785 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2085 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 181.6 MB.
+System memory in use after: 181.6 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2523.
+Total: 2.018875 ms (FindLiveObjects: 0.249083 ms CreateObjectMapping: 0.042458 ms MarkObjects: 1.608625 ms  DeleteObjects: 0.117500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 94.394268 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/App Icon.png
+  artifactKey: Guid(2d5a187c329e5f840b248842b9743eb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/App Icon.png using Guid(2d5a187c329e5f840b248842b9743eb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9bec140cdbdae7cb9f03c9ce4d84bd1') in 0.633067 seconds 
+  Import took 0.636084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Readme.asset
+  artifactKey: Guid(fb5a1caba0624ad4b88a57dcc2c48c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Readme.asset using Guid(fb5a1caba0624ad4b88a57dcc2c48c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '153df78a0f1856239b03b0edb50203be') in 0.580055 seconds 
+  Import took 0.582636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1664.488312 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites
+  artifactKey: Guid(350932cf8d63c3749888c39ec9766d78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites using Guid(350932cf8d63c3749888c39ec9766d78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf2e90dc7829935bc2e19cb7e5d98c50') in 0.000850 seconds 
+  Import took 0.003599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042841 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites
+  artifactKey: Guid(350932cf8d63c3749888c39ec9766d78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites using Guid(350932cf8d63c3749888c39ec9766d78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf2e90dc7829935bc2e19cb7e5d98c50') in 0.000691 seconds 
+  Import took 0.002985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.291302 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/InGame
+  artifactKey: Guid(8a324cc9b1aa54549bff795a555f4b6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/InGame using Guid(8a324cc9b1aa54549bff795a555f4b6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fb648d1e7f31d1ef2cc948634eea64a') in 0.000920 seconds 
+  Import took 0.004227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.072333 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Room.png
+  artifactKey: Guid(b2674c202add550489538c0eda41af9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Room.png using Guid(b2674c202add550489538c0eda41af9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be349cf9b6614b1c8e90e1b90e8d048b') in 0.012372 seconds 
+  Import took 0.015092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.213269 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Room.png
+  artifactKey: Guid(b2674c202add550489538c0eda41af9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Room.png using Guid(b2674c202add550489538c0eda41af9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be349cf9b6614b1c8e90e1b90e8d048b') in 0.007006 seconds 
+  Import took 0.009716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.641312 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Cloud A.png
+  artifactKey: Guid(d9ee53f3733530547a8518461bfcad64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Cloud A.png using Guid(d9ee53f3733530547a8518461bfcad64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43ba5ff4794858993e632640ece5b6ef') in 0.011015 seconds 
+  Import took 0.015156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 9.png
+  artifactKey: Guid(d78e009f5bb799b42bbf3c801af824ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 9.png using Guid(d78e009f5bb799b42bbf3c801af824ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02f592071679dbba2ace2445fb289ea1') in 0.007441 seconds 
+  Import took 0.010543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Sky.png
+  artifactKey: Guid(35516b8eb72b7f94ca71644372720eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Sky.png using Guid(35516b8eb72b7f94ca71644372720eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05c1136275d44ae6ddc258ffd05eaecf') in 0.008648 seconds 
+  Import took 0.011674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 11.png
+  artifactKey: Guid(764f930ba03e6324d805335eb66b8c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 11.png using Guid(764f930ba03e6324d805335eb66b8c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '368ef81c2fc356da44a1963649a2e309') in 0.006351 seconds 
+  Import took 0.009147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 5.png
+  artifactKey: Guid(b8fd21ad16123364aaee0da8f1b3746b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 5.png using Guid(b8fd21ad16123364aaee0da8f1b3746b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9233ab5a526854576f781be954828bb2') in 0.006622 seconds 
+  Import took 0.009124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Shadow.png
+  artifactKey: Guid(897c542affa1c624da03b90c105313d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Shadow.png using Guid(897c542affa1c624da03b90c105313d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd69d9aaf1d67590fae0935664b927db6') in 0.058410 seconds 
+  Import took 0.060834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 2.png
+  artifactKey: Guid(590b73e132435194da7d40dc8a3816f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 2.png using Guid(590b73e132435194da7d40dc8a3816f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fe5b1ffa86cb850ca796fb980ea0e92') in 0.005670 seconds 
+  Import took 0.008017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 7.png
+  artifactKey: Guid(6de610ccbbc0a094b804153e2dea43a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 7.png using Guid(6de610ccbbc0a094b804153e2dea43a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01bbe656fb40ec76d84263f06188a8dd') in 0.005650 seconds 
+  Import took 0.008111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 3.png
+  artifactKey: Guid(ce60f325abe16e1408f2d226e825c21a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 3.png using Guid(ce60f325abe16e1408f2d226e825c21a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bba2e10e49b79cde9fead16fd45ff013') in 0.006019 seconds 
+  Import took 0.008483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 8.png
+  artifactKey: Guid(96481b76a6fa9c6428e4e4b1522e9378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 8.png using Guid(96481b76a6fa9c6428e4e4b1522e9378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce3668643c4ae55b693e980d6766fe92') in 0.007925 seconds 
+  Import took 0.010311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Cloud A.png
+  artifactKey: Guid(d9ee53f3733530547a8518461bfcad64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Cloud A.png using Guid(d9ee53f3733530547a8518461bfcad64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43ba5ff4794858993e632640ece5b6ef') in 0.005538 seconds 
+  Import took 0.007997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 4.png
+  artifactKey: Guid(230db3240b492574094d76e3dbd404a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 4.png using Guid(230db3240b492574094d76e3dbd404a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2be623f69a04523433e29504c89ff912') in 0.005322 seconds 
+  Import took 0.007897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Cloud B.png
+  artifactKey: Guid(644da3f43c8271947b34e66cb8e8f116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Cloud B.png using Guid(644da3f43c8271947b34e66cb8e8f116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1db9e709d26d0162aa57401ba8695a7c') in 0.005966 seconds 
+  Import took 0.008427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 6.png
+  artifactKey: Guid(2d5d6782fc427ad498ff00ded71060f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 6.png using Guid(2d5d6782fc427ad498ff00ded71060f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad9a5c222ceabba503d89258e0013e74') in 0.005675 seconds 
+  Import took 0.008088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 1.png
+  artifactKey: Guid(932ce8ce7b8fd8e4d9fb9bce6a7e0b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 1.png using Guid(932ce8ce7b8fd8e4d9fb9bce6a7e0b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '364989bd29405de72239a512df696cb2') in 0.006285 seconds 
+  Import took 0.008695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 0.png
+  artifactKey: Guid(f4ba7a5e8b25ae241a6c94d4d6df858d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 0.png using Guid(f4ba7a5e8b25ae241a6c94d4d6df858d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2998f4aa732d1d36885ac0ebe2e8e6d') in 0.005179 seconds 
+  Import took 0.007413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Shin.png
+  artifactKey: Guid(fe9a600e845b29d448bd73c0c4df6349) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Shin.png using Guid(fe9a600e845b29d448bd73c0c4df6349) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaf82fcd270a117476a6a29f4650822c') in 0.007135 seconds 
+  Import took 0.009393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 10.png
+  artifactKey: Guid(7fd151f4d9de8de47a1d5abe6e506e83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 10.png using Guid(7fd151f4d9de8de47a1d5abe6e506e83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf1319f906987b77ff8538ce2d063389') in 0.005753 seconds 
+  Import took 0.008058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023503 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 1.png
+  artifactKey: Guid(932ce8ce7b8fd8e4d9fb9bce6a7e0b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 1.png using Guid(932ce8ce7b8fd8e4d9fb9bce6a7e0b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '364989bd29405de72239a512df696cb2') in 0.005342 seconds 
+  Import took 0.008018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 535.862761 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Demo/Demo.unity
+  artifactKey: Guid(73aa51175af8aef4b869b25674f4b1b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Demo/Demo.unity using Guid(73aa51175af8aef4b869b25674f4b1b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd65e0a2217edd69e8ad6af6bc9b17da') in 0.001813 seconds 
+  Import took 0.005709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.167054 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f761b4d07845f9ce37a28bd189e504b1') in 0.001698 seconds 
+  Import took 0.004098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007110 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f761b4d07845f9ce37a28bd189e504b1') in 0.000963 seconds 
+  Import took 0.003271 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002296 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.654 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2085 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 193.9 MB.
+System memory in use after: 193.9 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2555.
+Total: 1.761167 ms (FindLiveObjects: 0.176334 ms CreateObjectMapping: 0.041166 ms MarkObjects: 1.430542 ms  DeleteObjects: 0.112000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 15.312136 seconds.
+  path: Assets/Scenes/Game.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Game.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5de3de03bfb86a46bb8a2b707eba224f') in 0.016455 seconds 
+  Import took 0.019093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1532.747091 seconds.
+  path: Assets/Scenes/Game.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Game.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c7604395d45de0f27275fa822da6372') in 0.002990 seconds 
+  Import took 0.007518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2131.926154 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon Shadow.png
+  artifactKey: Guid(a2b1efbe52bb7e8469a0f71be94ca717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon Shadow.png using Guid(a2b1efbe52bb7e8469a0f71be94ca717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58e8ce9993e73087b0cdbbf31ae53003') in 0.123122 seconds 
+  Import took 0.125991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Panel Left.png
+  artifactKey: Guid(11b75f9856d512244900631455ab3c8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Panel Left.png using Guid(11b75f9856d512244900631455ab3c8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cc9f890c9078d0fa8b9439945561750') in 0.010776 seconds 
+  Import took 0.013215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Panel Under.png
+  artifactKey: Guid(8e85598c65aa8204f98aac13d6aedf6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Panel Under.png using Guid(8e85598c65aa8204f98aac13d6aedf6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5cc94d1554e23ecba8332f07e66bf6a') in 0.008400 seconds 
+  Import took 0.011437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Panel Border.png
+  artifactKey: Guid(bf2b31ceb6a9bab4d93edffe34b2eae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Panel Border.png using Guid(bf2b31ceb6a9bab4d93edffe34b2eae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce3e30bf9df6852a95e611c8a3a67893') in 0.006251 seconds 
+  Import took 0.008937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Lock.png
+  artifactKey: Guid(14cbb79d17bbcb4488f2f84c10898056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Lock.png using Guid(14cbb79d17bbcb4488f2f84c10898056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e7a792171c4eae5055e0fd7a0062b09') in 0.005630 seconds 
+  Import took 0.008260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Panel Right Over.png
+  artifactKey: Guid(dcfc8a54a5261b4488cae020699f3975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Panel Right Over.png using Guid(dcfc8a54a5261b4488cae020699f3975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93470dafcb848bbfa9982308308abd18') in 0.006151 seconds 
+  Import took 0.008778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Panel Left Over.png
+  artifactKey: Guid(0c0bada3cbd3c2041b3742457d590faf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Panel Left Over.png using Guid(0c0bada3cbd3c2041b3742457d590faf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e3ef890f952969209261308af799cc9') in 0.005390 seconds 
+  Import took 0.007773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Panel Right.png
+  artifactKey: Guid(64678e98cfb9c2a45a4ed1019c6d2941) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Panel Right.png using Guid(64678e98cfb9c2a45a4ed1019c6d2941) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84e1c73fbe32944b56be2da16e73b975') in 0.005702 seconds 
+  Import took 0.008372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Medal.png
+  artifactKey: Guid(9396d80065b15fb4e9f5fa16deb1841a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Medal.png using Guid(9396d80065b15fb4e9f5fa16deb1841a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b309d462089625a7fcc5f939959179b2') in 0.005459 seconds 
+  Import took 0.007794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.223395 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 0.png
+  artifactKey: Guid(feabaf7052f4d8e4daf77e40668bc2b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 0.png using Guid(feabaf7052f4d8e4daf77e40668bc2b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ad20b60ae5bb93cdb206b3f5482f019') in 0.008286 seconds 
+  Import took 0.011029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 5 Over.png
+  artifactKey: Guid(22fafc3e4b16258438fb4240603b1949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 5 Over.png using Guid(22fafc3e4b16258438fb4240603b1949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '419d05a7cb38d17d59618105c6705a87') in 0.005682 seconds 
+  Import took 0.008127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 3 Over.png
+  artifactKey: Guid(0cc98cf945627544e8761d70cbbbb24a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 3 Over.png using Guid(0cc98cf945627544e8761d70cbbbb24a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebf0342e65ca4fc133c05f8a931ae41c') in 0.006362 seconds 
+  Import took 0.009055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 4 Over.png
+  artifactKey: Guid(86f68579e1c470645a783c40f4271052) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 4 Over.png using Guid(86f68579e1c470645a783c40f4271052) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3abce0e717dd83d8beb56f001b1b15e') in 0.005814 seconds 
+  Import took 0.008201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 3.png
+  artifactKey: Guid(1edfcc716ab5b4940a23aa75e0352142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 3.png using Guid(1edfcc716ab5b4940a23aa75e0352142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e867f5715be40f777a0cb5108f1dbffa') in 0.005677 seconds 
+  Import took 0.008433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 7.png
+  artifactKey: Guid(7d1b8c1a026022641af7b846a3d34c63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 7.png using Guid(7d1b8c1a026022641af7b846a3d34c63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e5e7c2004d0016009a316b25f72a66c') in 0.006883 seconds 
+  Import took 0.011297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 1.png
+  artifactKey: Guid(4a4e38441adaaf64c9251018be41c8f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 1.png using Guid(4a4e38441adaaf64c9251018be41c8f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c5462b40442b6b2dc7e1646593f81f3') in 0.005942 seconds 
+  Import took 0.008364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 6.png
+  artifactKey: Guid(b1d81fd4029ff3f47bbb0da5379cd31d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 6.png using Guid(b1d81fd4029ff3f47bbb0da5379cd31d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41be9efca7acd910f710519f993890cd') in 0.005623 seconds 
+  Import took 0.008241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 5.png
+  artifactKey: Guid(7ea52d616d157c947a0765439d1ae441) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 5.png using Guid(7ea52d616d157c947a0765439d1ae441) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a78e7c003e4ea714bfb8a97ba2daefd') in 0.006867 seconds 
+  Import took 0.009733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 4.png
+  artifactKey: Guid(f752d344d11683842a810ca1ce47728d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 4.png using Guid(f752d344d11683842a810ca1ce47728d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83b3c7729fe2d6757cc4d2cd01d0565b') in 0.005476 seconds 
+  Import took 0.007740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 2 Over.png
+  artifactKey: Guid(526edf75fa93d364fbb3eeb1a06a6f47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 2 Over.png using Guid(526edf75fa93d364fbb3eeb1a06a6f47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfbd7025ef380d1715421ea25d9123cb') in 0.005766 seconds 
+  Import took 0.008064 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Panel.png
+  artifactKey: Guid(18f348779f4feae45a6195ae06cbc32e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Panel.png using Guid(18f348779f4feae45a6195ae06cbc32e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '308f28ae9f55d4ab4a49d830d0fe4a1f') in 0.006642 seconds 
+  Import took 0.009081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 2.png
+  artifactKey: Guid(d4bb5b2bf799cbe48896bb8c60334f41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 2.png using Guid(d4bb5b2bf799cbe48896bb8c60334f41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdfc7b54c4f6058865bb2893c5d59157') in 0.005858 seconds 
+  Import took 0.008571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 293.679984 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Animations/Ac1.controller
+  artifactKey: Guid(8c7845f2d3a629943afc1519da279300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Animations/Ac1.controller using Guid(8c7845f2d3a629943afc1519da279300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '763a3c77f8f400eaaa56de9bd7a89a8a') in 0.176530 seconds 
+  Import took 0.180473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.239826 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Animations/Touch1.anim
+  artifactKey: Guid(f7d7023a2419c394396611bd168a978a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Animations/Touch1.anim using Guid(f7d7023a2419c394396611bd168a978a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d9acf8c54e63bda7da07b8cb7621149') in 0.086503 seconds 
+  Import took 0.089282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.860584 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Animations/Walk1.anim
+  artifactKey: Guid(a12d959af47d9694980967283ad3e8f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Animations/Walk1.anim using Guid(a12d959af47d9694980967283ad3e8f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fc2bce24564eaf10d1a935d54dcf69f') in 0.002919 seconds 
+  Import took 0.006071 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002114 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.778 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2085 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 202.7 MB.
+System memory in use after: 202.7 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2566.
+Total: 1.664250 ms (FindLiveObjects: 0.132334 ms CreateObjectMapping: 0.041625 ms MarkObjects: 1.388667 ms  DeleteObjects: 0.100666 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 250.789390 seconds.
+  path: Assets/Bolt 2D JellyFarm VE2/Fonts/DoHyeon-Regular.ttf
+  artifactKey: Guid(2d040b1040b12644dbfd6de09f5b5408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bolt 2D JellyFarm VE2/Fonts/DoHyeon-Regular.ttf using Guid(2d040b1040b12644dbfd6de09f5b5408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86378a07a9f7353dd61403a0b913b475') in 1.131598 seconds 
+  Import took 1.134307 seconds .
+
