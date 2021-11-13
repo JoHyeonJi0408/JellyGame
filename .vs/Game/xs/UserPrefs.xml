@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Scrolling.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Scrolling.cs" Line="19" Column="68" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0a624c0e-07b7-4887-a51e-e8a7445fe82a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

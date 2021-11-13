@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/Bolt 2D JellyFarm VE2/ReadMe/Scripts/ReadmeVE2.cs" />
+    <Compile Include="Assets/Scripts/Scrolling.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
